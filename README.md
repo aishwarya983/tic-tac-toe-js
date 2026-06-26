@@ -22,9 +22,9 @@ This is my first project built using HTML, CSS, and JavaScript.
 
 ## 🌐 Live Demo
 
-👉 **Live Demo:
+👉 **Live Demo: https://aishwarya983.github.io/tic-tac-toe-js/
 
-> Replace the above link with your deployed website URL (GitHub Pages, Netlify, or Vercel).
+
 
 ---
 
